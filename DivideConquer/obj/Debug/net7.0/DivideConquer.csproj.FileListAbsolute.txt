@@ -1,0 +1,15 @@
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/bin/Debug/net7.0/DivideConquer
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/bin/Debug/net7.0/DivideConquer.deps.json
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/bin/Debug/net7.0/DivideConquer.runtimeconfig.json
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/bin/Debug/net7.0/DivideConquer.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/bin/Debug/net7.0/DivideConquer.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.csproj.AssemblyReference.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.AssemblyInfoInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.AssemblyInfo.cs
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.csproj.CoreCompileInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/refint/DivideConquer.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/DivideConquer.genruntimeconfig.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/DivideConquer/obj/Debug/net7.0/ref/DivideConquer.dll

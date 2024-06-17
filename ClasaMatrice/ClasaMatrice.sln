@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasaMatrice", "ClasaMatrice.csproj", "{EEB4BBC4-4C5E-42CE-A735-DD139E9BA5FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2C24867-DC20-4B85-8497-3A63A75680C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB4BBC4-4C5E-42CE-A735-DD139E9BA5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB4BBC4-4C5E-42CE-A735-DD139E9BA5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB4BBC4-4C5E-42CE-A735-DD139E9BA5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB4BBC4-4C5E-42CE-A735-DD139E9BA5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2376987C-13DA-4310-8246-02EBCFB5AC24}
+	EndGlobalSection
+EndGlobal

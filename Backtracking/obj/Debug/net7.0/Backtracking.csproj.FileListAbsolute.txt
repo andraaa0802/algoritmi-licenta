@@ -1,0 +1,15 @@
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/bin/Debug/net7.0/Backtracking
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/bin/Debug/net7.0/Backtracking.deps.json
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/bin/Debug/net7.0/Backtracking.runtimeconfig.json
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/bin/Debug/net7.0/Backtracking.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/bin/Debug/net7.0/Backtracking.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.csproj.AssemblyReference.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.AssemblyInfoInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.AssemblyInfo.cs
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.csproj.CoreCompileInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/refint/Backtracking.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/Backtracking.genruntimeconfig.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/Backtracking/obj/Debug/net7.0/ref/Backtracking.dll

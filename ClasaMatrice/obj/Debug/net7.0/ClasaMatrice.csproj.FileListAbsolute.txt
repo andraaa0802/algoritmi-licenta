@@ -1,0 +1,15 @@
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/bin/Debug/net7.0/ClasaMatrice
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/bin/Debug/net7.0/ClasaMatrice.deps.json
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/bin/Debug/net7.0/ClasaMatrice.runtimeconfig.json
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/bin/Debug/net7.0/ClasaMatrice.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/bin/Debug/net7.0/ClasaMatrice.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.csproj.AssemblyReference.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.AssemblyInfoInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.AssemblyInfo.cs
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.csproj.CoreCompileInputs.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/refint/ClasaMatrice.dll
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.pdb
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ClasaMatrice.genruntimeconfig.cache
+/Users/andra/Desktop/AlgoritmicaLicenta/ClasaMatrice/obj/Debug/net7.0/ref/ClasaMatrice.dll
