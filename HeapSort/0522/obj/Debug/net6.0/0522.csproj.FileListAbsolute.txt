@@ -1,0 +1,15 @@
+/Users/andra/Desktop/POO2024/0522/0522/bin/Debug/net6.0/0522
+/Users/andra/Desktop/POO2024/0522/0522/bin/Debug/net6.0/0522.deps.json
+/Users/andra/Desktop/POO2024/0522/0522/bin/Debug/net6.0/0522.runtimeconfig.json
+/Users/andra/Desktop/POO2024/0522/0522/bin/Debug/net6.0/0522.dll
+/Users/andra/Desktop/POO2024/0522/0522/bin/Debug/net6.0/0522.pdb
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.csproj.AssemblyReference.cache
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.AssemblyInfoInputs.cache
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.AssemblyInfo.cs
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.csproj.CoreCompileInputs.cache
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.dll
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/refint/0522.dll
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.pdb
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/0522.genruntimeconfig.cache
+/Users/andra/Desktop/POO2024/0522/0522/obj/Debug/net6.0/ref/0522.dll
